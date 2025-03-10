@@ -17,7 +17,7 @@ To compile and run the consumer, navigate to the project directory and execute:
 
 ```java
 mvn clean install
-java -jar jar HWSkiListEventConsumer-1.0-SNAPSHOT-jar-with-dependencies.jar
+java -jar HWSkiListEventConsumer-1.0-SNAPSHOT-jar-with-dependencies.jar
 ```
 
 ## 3. Troubleshooting
